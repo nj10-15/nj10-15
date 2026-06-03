@@ -15,9 +15,9 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 **MS in Information Management** — University of Illinois Urbana-Champaign (GPA: 3.86 | May 2026)
+- 🎓 **MS in Information Management** - University of Illinois Urbana-Champaign (GPA: 3.86 | May 2026)
 - 💼 **5+ years** across data engineering, ML, analytics & business intelligence
-- 🏭 Most recently: **Data Engineer @ Kohler Co.** — scaled 30+ Databricks Medallion pipelines, built AI-powered engineering drawing parsers, and delivered real-time Power BI dashboards
+- 🏭 Most recently: **Data Engineer @ Kohler Co.** - scaled 30+ Databricks Medallion pipelines, built AI-powered engineering drawing parsers, and delivered real-time Power BI dashboards
 - 🤖 Passionate about **GenAI, multi-agent systems, and production-grade data pipelines**
 - 🌍 Open to roles in **Data Engineering, Data Science, Analytics Engineering, or Business Analytics**
 
