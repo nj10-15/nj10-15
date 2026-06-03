@@ -101,7 +101,3 @@ Built on 89K+ fashion products using CLIP image embeddings and contrastive learn
 - 🤖 **Supervised Machine Learning** (Coursera / DeepLearning.AI)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
