@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sara (Nishtha Joshi) 👋</h1>
+<h1 align="center">Hi, I'm Sara 👋</h1>
 
 <p align="center">
   <b>Data Engineer · Data Scientist · Analytics Engineer</b><br/>
